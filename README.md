@@ -266,7 +266,7 @@ El archivo `.pbix` completo se encuentra disponible en la carpeta [`dashboard`](
 
 El análisis completo, incluyendo limpieza de datos, consultas SQL, análisis de cohortes y prueba estadística, puede consultarse en:
 
-[`notebooks/rappiplus_business_analysis.ipynb`](notebooks/rappiplus_business_analysis.ipynb)
+[`notebooks/rappiplus_business_analysis.ipynb`](notebooks/rappiplus_business_analysis().ipynb)
 
 Las credenciales utilizadas originalmente para acceder a la base de datos no se incluyen por motivos de seguridad y privacidad. Las consultas SQL y sus resultados se conservan como evidencia del proceso de análisis realizado.
 
